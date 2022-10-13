@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lns-XueFeng
 - 👀 I’m interested in Python and play the game
 - 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me: 1477792904@qq.com
 
 <!---
