@@ -1,9 +1,2 @@
-- 👋 Hi, I’m @Lns-XueFeng
-- 👀 I’m interested in Python and play the game
-- 🌱 I’m currently learning Python and JavaScript
-- 📫 How to reach me: 1477792904@qq.com
-
-<!---
-Lns-XueFeng/Lns-XueFeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| <h4>你好！My name is Lns-XueFeng.</h4>:cupid: Love: Python and Game.<br />:rocket: Dream: Use Python to write beautiful code as you please! | [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lns-XueFeng&title_color=000000&text_color=000000&icon_color=F2155F&bg_color=FFFFFF&show_icons=true&include_all_commits=true&count_private=true&hide_border=true")](https://github.com/anuraghazra/github-readme-stats) |
+| :----------------------------------------------------------- | ------------------------------------------------------------ |
