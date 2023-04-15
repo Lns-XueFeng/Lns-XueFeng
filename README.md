@@ -1,11 +1,10 @@
-### Hi I am xuefeng 👋
+### Hi I am XueFeng 👋
 - 🔭 I am a student
 - 😄 I love c and python
 - ⚡ I hope to get a python job
-- 📫 My email: lnsxuefeng@gmail.com
-- 👯 My Wechat is Lns-XueFeng
+- 📫 My email: 1477792904@qq.com
 
-### This is my knowledge map: [JustCodeIt](https://github.com/Lns-XueFeng/JustCodeIt)
+#### This is my knowledge map: [JustCodeIt](https://github.com/Lns-XueFeng/JustCodeIt)
 
 <!--
 **Lns-XueFeng/Lns-XueFeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
