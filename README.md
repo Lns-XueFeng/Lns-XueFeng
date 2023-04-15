@@ -1,10 +1,10 @@
 ### Hi I am XueFeng 👋
 - 🔭 I am a student
-- 😄 I love c and python
-- ⚡ I hope to get a python job
+- 😄 I love C and Python
+- ⚡ I hope to get a Python Job
 - 📫 My email: 1477792904@qq.com
 
-#### This is my knowledge map: [JustCodeIt](https://github.com/Lns-XueFeng/JustCodeIt)
+#### This is my Knowledge Map [JustCodeIt](https://github.com/Lns-XueFeng/JustCodeIt), It has CS_Basic, Python, Flask, MySQL and some Toy Projects
 
 <!--
 **Lns-XueFeng/Lns-XueFeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
