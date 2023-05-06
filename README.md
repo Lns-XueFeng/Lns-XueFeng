@@ -1,23 +1,8 @@
 ### Hi I am XueFeng 👋
-- 😄 I am a student
-- 🔭 I love C and Python
-- ⚡ Want to be a Python engineer
+- 😄 I am an undergraduate
+- ⚡ The specialty is explosive technology
+- 🔭 I love python and hope to participate in open source
 - 📫 My Email: 1477792904@qq.com
 - 🤔 This is my [WeChat public account](https://mp.weixin.qq.com/mp/homepage?__biz=Mzg5ODYxMTg0NA==&hid=1&sn=a17f28de8b7df5f0a72a6337d785913b&scene=18)
 
 #### This is my Knowledge Map [JustCodeIt](https://github.com/Lns-XueFeng/JustCodeIt), It contains Computer-Fundamentals, Python, Spider, Web, Flask, MySQL etc
-
-<!--
-**Lns-XueFeng/Lns-XueFeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
